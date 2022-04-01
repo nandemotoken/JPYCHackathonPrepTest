@@ -1,5 +1,6 @@
 // Link to hackathon main page
 const LINK_HACKATHON_MAIN_PAGE = "https://jpy.design/";
+const LINK_APPRICATION_FORM = "https://docs.google.com/forms/d/e/1FAIpQLSdO2oakMYlbOPFYcQnKkLgVYO7ZYfGYoMCLXVwAu184iCQ1Gg/viewform?usp=sf_link";
 
 // Link to how-to-test page
 const LINK_HOW_TO_TEST_PAGE = "https://github.com/terrier-lover/JPYCHackathonPrepTest/blob/main/HOW_TO_TEST.md";
@@ -41,5 +42,6 @@ export {
     CHAIN_IDS,
     SUPPORTED_CHAIN_IDS_IN_WEB,
     LINK_HACKATHON_MAIN_PAGE,
+    LINK_APPRICATION_FORM,
     LINK_HOW_TO_TEST_PAGE,
 };

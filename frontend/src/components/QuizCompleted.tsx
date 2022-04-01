@@ -1,5 +1,5 @@
 import { Center, Link, Button, HStack, VStack, Text } from "@chakra-ui/react";
-import { LINK_HACKATHON_MAIN_PAGE } from "../CustomInputs";
+import { LINK_HACKATHON_MAIN_PAGE , LINK_APPRICATION_FORM } from "../CustomInputs";
 import CommonErrorBoundary from "./CommonErrorBoundary";
 import QuizCompletedMintedNFT from "./QuizCompletedMintedNFT";
 
@@ -41,7 +41,7 @@ export default function QuizCompleted() {
                 <Center paddingTop="60px">
                     <Link
                         textDecoration="none"
-                        href={LINK_HACKATHON_MAIN_PAGE}
+                        href={LINK_APPRICATION_FORM}
                         _hover={{
                             textDecoration: "none"
                         }}
@@ -57,7 +57,7 @@ export default function QuizCompleted() {
                                 bgGradient: "linear(to-r, #523216, #804a17)"
                             }}
                         >
-                            ハッカソンメインページに行く
+                            ハッカソン申込フォームを開く
                         </Button>
                     </Link>
                 </Center>
