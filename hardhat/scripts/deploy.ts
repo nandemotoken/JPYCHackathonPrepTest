@@ -26,7 +26,7 @@ const COMMON_SELECTION_LABELS = ["○", "×"];
 const QUESTION_SELECTIONS_INFO = [
   // Question1
   {
-    question: "○ を選択してください。",
+    question: "JPYCはブロックチェーンを使っている",
     ...makeQuestionSelection(
       COMMON_SELECTION_LABELS,
       0, // solutionIndex
@@ -34,7 +34,7 @@ const QUESTION_SELECTIONS_INFO = [
   },
   // Question2
   {
-    question: "× を選択してください。",
+    question: "MetaMaskはテストネットに対応していない",
     ...makeQuestionSelection(
       COMMON_SELECTION_LABELS,
       1, // solutionIndex
@@ -42,7 +42,7 @@ const QUESTION_SELECTIONS_INFO = [
   },
   // Question3
   {
-    question: "[長文例] 桜木町の駅に降りたのが、かれこれ九時時分だったので、私達は、先ず暗い波止場に行った。 ○ を選択してください。", // Q3,
+    question: "JPYCはERC20規格を使用している", // Q3,
     ...makeQuestionSelection(
       COMMON_SELECTION_LABELS,
       0, // solutionIndex
@@ -50,7 +50,7 @@ const QUESTION_SELECTIONS_INFO = [
   },
   // Question4
   {
-    question: "○ を選択してください。",
+    question: "ERC20トークンには、保有者が他人に支払い代行を許可する仕組みがある",
     ...makeQuestionSelection(
       COMMON_SELECTION_LABELS,
       0, // solutionIndex
@@ -58,7 +58,7 @@ const QUESTION_SELECTIONS_INFO = [
   },
   // Question5
   {
-    question: "× を選択してください。",
+    question: "秘密鍵はGitHubで公開することが一般的である",
     ...makeQuestionSelection(
       COMMON_SELECTION_LABELS,
       1, // solutionIndex
@@ -66,7 +66,7 @@ const QUESTION_SELECTIONS_INFO = [
   },
   // Question6
   {
-    question: "○ を選択してください。",
+    question: "Ethers.jsを利用すると、Webページからブロックチェーンへの問い合わせを行うことができる",
     ...makeQuestionSelection(
       COMMON_SELECTION_LABELS,
       0, // solutionIndex
@@ -74,7 +74,7 @@ const QUESTION_SELECTIONS_INFO = [
   },
   // Question7
   {
-    question: "○ を選択してください。",
+    question: "Ethers.jsを利用すると、JPYCを送信するアプリを作成することも可能",
     ...makeQuestionSelection(
       COMMON_SELECTION_LABELS,
       0, // solutionIndex
@@ -82,7 +82,7 @@ const QUESTION_SELECTIONS_INFO = [
   },
   // Question8
   {
-    question: "○ を選択してください。",
+    question: "JavaScriptから、ブロックチェーンへの問い合わせを行うとき、非同期処理に注意しながらプログラムを作成する必要がある",
     ...makeQuestionSelection(
       COMMON_SELECTION_LABELS,
       0, // solutionIndex
@@ -90,7 +90,7 @@ const QUESTION_SELECTIONS_INFO = [
   },
   // Question9
   {
-    question: "× を選択してください。",
+    question: "JPYCは暗号資産である",
     ...makeQuestionSelection(
       COMMON_SELECTION_LABELS,
       1, // solutionIndex
@@ -98,7 +98,7 @@ const QUESTION_SELECTIONS_INFO = [
   },
   // Question10
   {
-    question: "× を選択してください。",
+    question: "JPYC株式会社 代表取締役 岡部典孝さんの趣味は『温泉』と『寿司』である",
     ...makeQuestionSelection(
       COMMON_SELECTION_LABELS,
       1, // solutionIndex
