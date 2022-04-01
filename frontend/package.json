@@ -1,7 +1,7 @@
 {
   "name": "frontend",
   "version": "0.1.0",
-  "homepage": "https://terrier-lover.github.io/jpyc_hack_prep_test_page/",
+  "homepage": "./",
   "private": true,
   "dependencies": {
     "@3rdweb/hooks": "^1.9.2",

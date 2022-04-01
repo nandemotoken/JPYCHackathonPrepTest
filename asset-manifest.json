@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/jpyc_hack_prep_test_page/static/js/main.f276a4f2.js",
-    "static/js/14.74a8b306.chunk.js": "/jpyc_hack_prep_test_page/static/js/14.74a8b306.chunk.js",
-    "static/js/849.04e10bfc.chunk.js": "/jpyc_hack_prep_test_page/static/js/849.04e10bfc.chunk.js",
-    "static/js/344.b6ce5095.chunk.js": "/jpyc_hack_prep_test_page/static/js/344.b6ce5095.chunk.js",
-    "static/js/27.07bc2567.chunk.js": "/jpyc_hack_prep_test_page/static/js/27.07bc2567.chunk.js",
-    "static/js/737.6d172704.chunk.js": "/jpyc_hack_prep_test_page/static/js/737.6d172704.chunk.js",
-    "static/js/282.fadca85c.chunk.js": "/jpyc_hack_prep_test_page/static/js/282.fadca85c.chunk.js",
-    "static/js/563.3952217f.chunk.js": "/jpyc_hack_prep_test_page/static/js/563.3952217f.chunk.js",
-    "static/js/354.afe3c0c1.chunk.js": "/jpyc_hack_prep_test_page/static/js/354.afe3c0c1.chunk.js",
-    "static/js/26.2f262cab.chunk.js": "/jpyc_hack_prep_test_page/static/js/26.2f262cab.chunk.js",
-    "static/js/84.25eb24d8.chunk.js": "/jpyc_hack_prep_test_page/static/js/84.25eb24d8.chunk.js",
-    "static/media/certification.svg": "/jpyc_hack_prep_test_page/static/media/certification.58ea6a3f03ba3632a26e00fad8a238d8.svg",
-    "index.html": "/jpyc_hack_prep_test_page/index.html"
+    "main.js": "./static/js/main.e88da760.js",
+    "static/js/14.74a8b306.chunk.js": "./static/js/14.74a8b306.chunk.js",
+    "static/js/849.04e10bfc.chunk.js": "./static/js/849.04e10bfc.chunk.js",
+    "static/js/344.b6ce5095.chunk.js": "./static/js/344.b6ce5095.chunk.js",
+    "static/js/27.07bc2567.chunk.js": "./static/js/27.07bc2567.chunk.js",
+    "static/js/737.1685526c.chunk.js": "./static/js/737.1685526c.chunk.js",
+    "static/js/282.fadca85c.chunk.js": "./static/js/282.fadca85c.chunk.js",
+    "static/js/563.3952217f.chunk.js": "./static/js/563.3952217f.chunk.js",
+    "static/js/354.afe3c0c1.chunk.js": "./static/js/354.afe3c0c1.chunk.js",
+    "static/js/26.97b507e4.chunk.js": "./static/js/26.97b507e4.chunk.js",
+    "static/js/84.25eb24d8.chunk.js": "./static/js/84.25eb24d8.chunk.js",
+    "static/media/certification.svg": "./static/media/certification.58ea6a3f03ba3632a26e00fad8a238d8.svg",
+    "index.html": "./index.html"
   },
   "entrypoints": [
-    "static/js/main.f276a4f2.js"
+    "static/js/main.e88da760.js"
   ]
 }
