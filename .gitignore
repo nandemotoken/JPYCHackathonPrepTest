@@ -10,6 +10,7 @@ hardhat/typechain
 hardhat/cache
 hardhat/artifacts
 hardhat/quizInfo.json
+hardhat/contracts
 
 # Frontend files
 frontend/.env
